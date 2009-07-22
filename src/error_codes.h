@@ -1,0 +1,1 @@
+#define MC_BG_LOAD_ERROR 70
